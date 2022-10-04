@@ -1,7 +1,8 @@
 <details>
 <summary>Languages</summary>
-        Fluent: Python
-        Intermediate: C/C++
-        Beginner: Rust, C#
+<ul>
+<li>Fluent: Python</li>
+<li>Intermediate: C/C++</li>
+<li>Beginner: Rust, C#</li>
         
 </details>
