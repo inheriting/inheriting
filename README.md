@@ -4,7 +4,6 @@
 <details>
 <summary>Languages</summary>
 
-<li>Fluent: Python</li>
-<li>Intermediate: C/C++</li>
-<li>Beginner: Rust, C#</li>     
+<li>Often: Python, Rust, C++</li>
+<li>Not often: C#, C</li>     
 </details>
