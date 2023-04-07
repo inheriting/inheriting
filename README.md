@@ -1,9 +1,7 @@
+![](https://komarev.com/ghpvc/?username=n-ptr&color=grey)
 
 
-       
-<details>
-<summary>Languages</summary>
-
-<li>Often: Python</li>
-<li>Not often/fluent: C++, JavaScript</li>     
-</details>
+<p align="center">
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=n-ptr&layout=compact&theme=dark"<p align="center">
+</p>
